@@ -6,9 +6,9 @@
  * Time: 7:45 PM
  */
 
-phpinfo();
+//phpinfo();
 
-//echo "Hi , Kailash ";
+echo "Hi , Kailash Raj Pradhan";
 
 ?>
 
